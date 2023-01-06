@@ -9,7 +9,7 @@ Experimented with different Machine Learning algorithms, Logistic Regression, Ne
 Compared the results to recommend the best Machine learning model.
 
 
-COLAB NOTEBOOK LINK:https://github.com/025-Shiva/Water_quality-prediction-using-Machine-learning/blob/main/WaterQuality.ipynb
+COLAB NOTEBOOK LINK :https://github.com/025-Shiva/Water_quality-prediction-using-Machine-learning/blob/main/WaterQuality.ipynb
 
 
-PROJECT PRESENTATION LINK:https://drive.google.com/file/d/1MNOnTTSobCwVkWEifLbgcrS6qLvbjP00/view?usp=sharing
+PROJECT PRESENTATION LINK :https://drive.google.com/file/d/1MNOnTTSobCwVkWEifLbgcrS6qLvbjP00/view?usp=sharing
